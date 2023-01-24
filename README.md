@@ -4,10 +4,7 @@
 
 This is a 2nd run through of this prework study guide project.
 
-Wanted to learn it deeper
-To better organize my notes
-Develops my understanding of coding
-I learned that you need to follow directions exactly
+Wanted to learn it all deeper and better organize my notes. This develops my understanding of coding and I learned that you need to follow directions exactly.
 
 
 ## Installation
